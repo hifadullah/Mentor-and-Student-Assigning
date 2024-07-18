@@ -1,16 +1,22 @@
 {
-  "name": "mentor-student-assignment",
+  "name": "mentor-and-student-assigning",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
-    "mongoose": "^8.0.1"
-  },
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
   "engines": {
-    "node": "18.18.0"
+    "node": "v18.18.0"
+  }
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
   }
 }
