@@ -13,13 +13,10 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  {
     "engines": {
       "node": "18.18.0"
     }
-  }
-  
-  "type": "module",
+ "type": "module",
   "engines": {
     "node": "v18.18.0"
   }
